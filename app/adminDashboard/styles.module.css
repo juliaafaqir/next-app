@@ -1,4 +1,7 @@
-.main {
-  min-width: 100vw;
-  margin: auto;
-}/*# sourceMappingURL=styles.module.css.map */
+.main{
+  margin: 0 128px;
+}
+
+.flexCards{
+  display: flex;
+}
